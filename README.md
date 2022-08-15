@@ -1,7 +1,5 @@
 ### Hi there 👋, Borhan Uddin Bappy
 #### Backend Developer 
-![Backend Developer ](https://avatars.githubusercontent.com/u/78487269?s=400&u=78ae5d25d7112e66be502de1980a51dc58fc3793&v=4)
-
 I am a last-semester student at the Green University of Bangladesh. I want to work in NLP. Now I am learning about Backend web-Developer using python.
 
 Skills:  REACT / JS / HTML / CSS/PYTHON/JAVA
