@@ -11,6 +11,4 @@ Skills:  REACT / JS / HTML / CSS/PYTHON/JAVA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorhanBappy)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BorhanBappy&show_icons=true)  
-
 ![Profile views](https://gpvc.arturio.dev/BorhanBappy)  
