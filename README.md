@@ -1,6 +1,6 @@
 ### Hi there 👋, Borhan Uddin Bappy
-#### Backend Developer 
-I am a last-semester student at the Green University of Bangladesh. I want to work in NLP. Now I am learning about Front-end  web-Developer.
+#### Front-end  Developer 
+ I want to work in NLP. Now I am learning about Front-end  web-Developer.
 
 Skills:  REACT / JS / HTML / CSS/PYTHON/JAVA
 
