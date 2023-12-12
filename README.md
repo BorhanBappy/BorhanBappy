@@ -11,4 +11,7 @@ I'm Borhan Uddin Bappy, a Front-end Developer with a keen interest in transition
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorhanBappy)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/BorhanBappy)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=BorhanBappy&label=Profile%20views&color=green&style=flat" alt="BorhanBappy"
+</p>
+
