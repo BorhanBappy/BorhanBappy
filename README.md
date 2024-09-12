@@ -1,10 +1,17 @@
 ### Hi there 👋,
 
-I'm Borhan Uddin Bappy, a Front-end Developer with a keen interest in transitioning to NLP. Currently expanding my skills in Python while focusing on full-stack web development and NLP.
+I'm **Borhan Uddin Bappy**, a passionate **Front-end Developer** with a focus on creating responsive and interactive web applications. I am currently expanding my expertise in **Next.js** and diving into **full-stack web development**.
 
-🚀 Skills: React, JavaScript, HTML, CSS, Python, Java
+🚀 **Skills**:
 
-🌱 Currently Learning: Python
+- **Frontend Development**: React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Chakra UI  
+- **Version Control**: Git, GitHub  
+- **State Management**: Redux, Context API  
+- **APIs**: RESTful APIs, Axios  
+- **Tools**: Webpack, Vite, NPM, Yarn  
+
+🌱 **Currently Learning**: Next.js, Backend Development (Node.js, Express)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BorhanBappy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/borhan-uddin-537a3417b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/bappy.hasan.523)  
