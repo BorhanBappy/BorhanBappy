@@ -36,11 +36,6 @@ I'm **Borhan Uddin Bappy**, a passionate **Full-stack Developer** with a strong 
 
 ---
 
-## 💡 About Me
-
-I am passionate about bridging the gap between beautiful designs and efficient functionality to deliver impactful solutions. I am constantly learning and collaborating on projects where innovation meets performance, always seeking to improve and grow.
-
----
 
 ## 📫 Let’s Connect
 
