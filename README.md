@@ -1,49 +1,68 @@
-### Hi there 👋,
+# Hi there 👋,
 
-I'm **Borhan Uddin Bappy**, a passionate **Front-end Developer** with a focus on creating responsive and interactive web applications. I am currently expanding my expertise in **Next.js** and diving into **full-stack web development**.
+I'm **Borhan Uddin Bappy**, a passionate **Full-stack Developer** with a strong focus on **Next.js** and **Front-end Development**. I specialize in creating responsive and interactive web applications and am constantly expanding my expertise in both front-end and back-end technologies.
 
-🚀 Technical Skills:
+---
 
-Frontend Development:
-React, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Chakra UI
+## 🚀 Technical Skills
 
-State Management:
-Redux, Context API
+### Frontend Development:
+- React, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Chakra UI
 
-Version Control & Collaboration:
-Git, GitHub
+### State Management:
+- Redux, Context API
 
-API Integration:
-RESTful APIs, Axios
+### Backend Development:
+- Node.js, Express
 
-Tooling & Build Systems:
-Webpack, Vite, NPM, Yarn
+### Database Management:
+- MongoDB
 
-🌱 Currently Exploring:
+### Version Control & Collaboration:
+- Git, GitHub
 
-Backend Technologies:
-Node.js, Express
+### API Integration:
+- RESTful APIs, Axios
 
-Database Management:
-MongoDB
+### Tooling & Build Systems:
+- Webpack, Vite, NPM, Yarn
 
-Full-Stack Development Best Practices
+---
 
-💡 I’m passionate about bridging the gap between beautiful designs and efficient functionality to deliver impactful solutions. Open to collaborating on projects where innovation meets performance.
+## 🌱 Currently Exploring
 
-📫 Let’s connect:
+- **Full-Stack Development Best Practices**
+- Cloud Services (AWS, Firebase)
 
-📱 01778122843
-📧 borhan.cse.gub@gmail.com
-🌐 GitHub
-🌐 LinkedIn
+---
 
+## 💡 About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BorhanBappy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/borhan-uddin-537a3417b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/bappy.hasan.523)  
+I am passionate about bridging the gap between beautiful designs and efficient functionality to deliver impactful solutions. I am constantly learning and collaborating on projects where innovation meets performance, always seeking to improve and grow.
+
+---
+
+## 📫 Let’s Connect
+
+- 📱 01778122843
+- 📧 borhan.cse.gub@gmail.com
+- 🌐 [GitHub](https://github.com/BorhanBappy)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/borhan-uddin-537a3417b/)
+
+---
+
+## 💻 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorhanBappy)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BorhanBappy&label=Profile%20views&color=green&style=flat" alt="BorhanBappy"
+  <img src="https://komarev.com/ghpvc/?username=BorhanBappy&label=Profile%20views&color=green&style=flat" alt="BorhanBappy"/>
 </p>
 
+---
+
+## Social Links
+
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/BorhanBappy)  
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/borhan-uddin-537a3417b/)  
+[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/bappy.hasan.523)
