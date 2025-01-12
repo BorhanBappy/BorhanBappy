@@ -1,6 +1,6 @@
 # Hi there 👋,
 
-I'm **Borhan Uddin Bappy**, a passionate **Full-stack Developer** with a strong focus on **Next.js** and **Front-end Development**. I specialize in creating responsive and interactive web applications and am constantly expanding my expertise in both front-end and back-end technologies.
+I'm **Borhan Uddin Bappy**, a passionate **Full-stack Developer** with a strong focus on **Next.js** and backend development, including **Next SEO** and **NextAuth.js**. I specialize in creating responsive and interactive web applications, with expertise in both front-end and back-end technologies.
 
 ---
 
@@ -13,10 +13,10 @@ I'm **Borhan Uddin Bappy**, a passionate **Full-stack Developer** with a strong 
 - Redux, Context API
 
 ### Backend Development:
-- Node.js, Express
+- **Next.js**, **Next SEO**, **NextAuth.js**
 
 ### Database Management:
-- MongoDB
+- SQL (using Prisma)
 
 ### Version Control & Collaboration:
 - Git, GitHub
@@ -56,13 +56,4 @@ I am passionate about bridging the gap between beautiful designs and efficient f
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorhanBappy)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BorhanBappy&label=Profile%20views&color=green&style=flat" alt="BorhanBappy"/>
-</p>
-
----
-
-## Social Links
-
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/BorhanBappy)  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/borhan-uddin-537a3417b/)  
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/bappy.hasan.523)
+  <img src="https://komarev.com/ghpvc/?username=BorhanBappy&label=Profile%20views&color=green&style=flat" alt="Borhan
