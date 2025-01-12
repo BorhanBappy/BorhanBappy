@@ -2,15 +2,41 @@
 
 I'm **Borhan Uddin Bappy**, a passionate **Front-end Developer** with a focus on creating responsive and interactive web applications. I am currently expanding my expertise in **Next.js** and diving into **full-stack web development**.
 
-🚀 **Skills**:
+ Technical Skills:
 
-- **Frontend Development**: React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Chakra UI  
-- **Version Control**: Git, GitHub  
-- **State Management**: Redux, Context API  
-- **APIs**: RESTful APIs, Axios  
-- **Tools**: Webpack, Vite, NPM, Yarn  
+Frontend Development:
+React, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Chakra UI
 
-🌱 **Currently Learning**: Next.js, Backend Development (Node.js, Express)
+State Management:
+Redux, Context API
+
+Version Control & Collaboration:
+Git, GitHub
+
+API Integration:
+RESTful APIs, Axios
+
+Tooling & Build Systems:
+Webpack, Vite, NPM, Yarn
+
+🌱 Currently Exploring:
+
+Backend Technologies:
+Node.js, Express
+
+Database Management:
+MongoDB
+
+Full-Stack Development Best Practices
+
+💡 I’m passionate about bridging the gap between beautiful designs and efficient functionality to deliver impactful solutions. Open to collaborating on projects where innovation meets performance.
+
+📫 Let’s connect:
+
+📱 01778122843
+📧 borhan.cse.gub@gmail.com
+🌐 GitHub
+🌐 LinkedIn
 
 
 
