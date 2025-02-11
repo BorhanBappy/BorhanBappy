@@ -40,7 +40,7 @@ I'm **Borhan Uddin Bappy**, a passionate **Full-stack Developer** with a strong 
 ## 📫 Let’s Connect
 
 - 📱 01778122843
-- 📧 borhan.cse.gub@gmail.com
+- 📧 devborhanbappy@gmail.com
 - 🌐 [GitHub](https://github.com/BorhanBappy)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/borhan-uddin-537a3417b/)
 
