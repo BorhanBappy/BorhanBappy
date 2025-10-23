@@ -1,54 +1,58 @@
-# Hi there 👋,
+👋 Hi there, I'm Borhan Uddin Bappy
 
-I'm **Borhan Uddin Bappy**, a passionate **Full-stack Developer** with a strong focus on **Next.js** and backend development, including **Next SEO** and **NextAuth.js**. I specialize in creating responsive and interactive web applications, with expertise in both front-end and back-end technologies.
+🎯 Full-Stack Developer | ASP.NET Software Engineer | React & Next.js Enthusiast
 
----
+I'm a passionate developer with hands-on experience in ASP.NET (MVC & Core) and modern JavaScript frameworks like React and Next.js.
+I love building scalable, secure, and user-friendly applications — combining strong backend logic with dynamic front-end interfaces.
 
-## 🚀 Technical Skills
+🧠 Tech Stack
+💻 Backend Development
 
-### Frontend Development:
-- React, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Chakra UI
+ASP.NET Core, C#, Entity Framework
 
-### State Management:
-- Redux, Context API
+RESTful API Design, LINQ, MVC Architecture
 
-### Backend Development:
-- **Next.js**, **Next SEO**, **NextAuth.js**
+⚛️ Frontend Development
 
-### Database Management:
-- SQL (using Prisma)
+React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3
 
-### Version Control & Collaboration:
-- Git, GitHub
+Tailwind CSS, Chakra UI
 
-### API Integration:
-- RESTful APIs, Axios
+🧩 State Management
 
-### Tooling & Build Systems:
-- Webpack, Vite, NPM, Yarn
+Redux, Context API
 
----
+🗄️ Database
 
-## 🌱 Currently Exploring
+SQL Server, Prisma ORM
 
-- **Full-Stack Development Best Practices**
-- Cloud Services (AWS, Firebase)
+🔐 Authentication & SEO
 
----
+NextAuth.js, Next SEO
 
+🧰 Tools & Collaboration
 
-## 📫 Let’s Connect
+Git, GitHub, Postman, Visual Studio, VS Code
 
-- 📱 01778122843
-- 📧 devborhanbappy@gmail.com
-- 🌐 [GitHub](https://github.com/BorhanBappy)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/borhan-uddin-537a3417b/)
+🌱 Currently Exploring
 
----
+Advanced ASP.NET Core Architecture
 
-## 💻 Stats
+Full-Stack Development Best Practices
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorhanBappy)](https://github.com/anuraghazra/github-readme-stats)
+Cloud Platforms (AWS, Azure, Firebase)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BorhanBappy&label=Profile%20views&color=green&style=flat" alt="Borhan
+📈 Stats & Highlights
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BorhanBappy&label=Profile%20views&color=green&style=flat" alt="Borhan" /> </p>
+📫 Let’s Connect
+
+💼 Role: Software Engineer (ASP.NET)
+
+📧 Email: devborhanbappy@gmail.com
+
+🌐 GitHub: github.com/BorhanBappy
+
+🔗 LinkedIn: linkedin.com/in/borhan-uddin-537a3417b
+
+📱 Phone: 01778122843
